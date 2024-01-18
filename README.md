@@ -25,3 +25,7 @@ IN REAL LIFE, the top 5 tech giants, collectively also known as MAGA (Microsoft,
 The Hash Number as the room number in Hilbert Hotel, holds the secret for users and free software programmers to claim royalties from social media giants for using their data and source code, where a mere 0.1% of only 5 tech companies amount to more than USD 1 billion per year!!
 
 - Diagram Konigsberg with many bitcoins floating LOL
+
+Now let us call this the final goal of DMeta Decentralised Metaverse:
+
+- Z (Step Z of A...Z): Achieve 0.1% MAGA revenues (amount to more than USD 1 billion per year) by 2030!!
