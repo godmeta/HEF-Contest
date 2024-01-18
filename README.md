@@ -15,3 +15,5 @@ HEF model attempts to answer (some of) the questions mentioned in GEB using meta
 ![Alt text](image.png)
 
 HEF is one step ahead of Feynman's technique in the sense that problems and solutions shall be stated in metaprogramming scripts, in FORTH programming language or equivalent.
+
+Why should anyone (Tom, Dick or Harry? Julia, Maria or Fatimah, to be politically correct) care about HEF?
