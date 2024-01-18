@@ -42,4 +42,5 @@ Now let us call this the final goal of DMeta Decentralised Metaverse:
 - Step D: 100 programmers on DMeta platform may be sufficient to produce the following apps:
   - A. DMeta Trispecies Loan
   - B. DMeta Anonymous Dating
+
 These apps may generate sufficient revenues to pay a significant portion of allowances for DMeta programmers, say 20%.
