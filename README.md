@@ -11,3 +11,5 @@ Hilbert Hotel, Euler's Seven Bridges of Konigsberg and Fibonacci series:
 - C. Fibonacci University, also located in Euler Business Park, conducts flipped classroom teaching by requiring students to submit assignments in the form of social media videos weekly or monthly, thereby recruiting new students in consistent with Fibonacci series.
 
 HEF model attempts to answer (some of) the questions mentioned in GEB using metaprogramming, a term intended to describe abstraction of programming algorithms independent of programming languages.
+
+![Alt text](image.png)
