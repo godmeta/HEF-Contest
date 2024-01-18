@@ -1,4 +1,4 @@
-# HEF-Contest
+# Hilbert-Euler-Fibonacci Metaprogramming Contest 
 
 The Hilbert-Euler-Fibonacci Metaprogramming Contest (HEF-MPC) is a 45 year late response to Hofstadter's "Gödel, Escher, Bach" (GEB)
 published in 1979. 
