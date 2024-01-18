@@ -17,3 +17,5 @@ HEF model attempts to answer (some of) the questions mentioned in GEB using meta
 HEF is one step ahead of Feynman's technique in the sense that problems and solutions shall be stated in metaprogramming scripts, in FORTH programming language or equivalent.
 
 Why should anyone (Tom, Dick or Harry? Julia, Maria or Fatimah, to be politically correct) care about HEF?
+
+In DMeta Decentralised Metaverse, everyone can own a piece of the Metaverse, and therefore IN REAL LIFE, gains REAL profits from the operations and transactions of DMeta Decentralised Metaverse.
