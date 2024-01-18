@@ -38,3 +38,8 @@ Now let us call this the final goal of DMeta Decentralised Metaverse:
 - Step C: USD 1000 may be enought to attract 100 programmers to join DMeta, and start using DMeta Hash Contracts to mark their source code, with the following condition:
   - DMeta Hash Contract On the Separation of Disclosure and Royalties of the Source Code
     - You, a human agent of a company or government agency, may read the source code without making payments to the author or authors, but if you  execute this program on behalf of your company or agency for commercial purposes, we reserve the rights to claim royalties from you or your company or agency.
+
+- Step D: 100 programmers on DMeta platform may be sufficient to produce the following apps:
+  - A. DMeta Trispecies Loan
+  - B. DMeta Anonymous Dating
+These apps may generate sufficient revenues to pay a significant portion of allowances for DMeta programmers, say 20%.
