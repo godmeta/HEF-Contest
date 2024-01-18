@@ -32,3 +32,5 @@ Now let us call this the final goal of DMeta Decentralised Metaverse:
 
 - Step A: DMeta Omnihash -- Start recruiting a DOWNLINES today with DMeta Omnihash
   - https://godmeta.github.io/h
+
+- Step B: Recruit a total of 1000 DOWNLINES, and get investors to invest USD 1000, as the prize money for the First (EVER!!) Hilbert-Euler-Fibonacci Metaprogramming Contest.
