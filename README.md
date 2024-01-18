@@ -28,4 +28,7 @@ The Hash Number as the room number in Hilbert Hotel, holds the secret for users 
 
 Now let us call this the final goal of DMeta Decentralised Metaverse:
 
-- Z (Step Z of A...Z): Achieve 0.1% MAGA revenues (amount to more than USD 1 billion per year) by 2030!!
+- Step Z (Z of A...Z): Achieve 0.1% MAGA revenues (amount to more than USD 1 billion per year) by 2030!!
+
+- Step A: DMeta Omnihash -- Start recruiting a DOWNLINES today with DMeta Omnihash
+-- godmeta.github.io/h
