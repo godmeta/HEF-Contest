@@ -46,3 +46,11 @@ Now let us call this the final goal of DMeta Decentralised Metaverse:
 These apps may generate sufficient revenues to pay a significant portion of allowances for DMeta programmers, say 20%.
 
 - Step E (2024Q2): 1000 programmers on DMeta platforms, with the following apps, with 10000 users:-
+
+Programmer income histogram ... 5 bands each 20% programmers ....
+
+- A:
+- B:
+- C:
+- D:
+- E:
