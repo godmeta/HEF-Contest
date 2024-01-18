@@ -31,4 +31,4 @@ Now let us call this the final goal of DMeta Decentralised Metaverse:
 - Step Z (Z of A...Z): Achieve 0.1% MAGA revenues (amount to more than USD 1 billion per year) by 2030!!
 
 - Step A: DMeta Omnihash -- Start recruiting a DOWNLINES today with DMeta Omnihash
--- godmeta.github.io/h
+  - godmeta.github.io/h
